@@ -1,0 +1,6 @@
+Thư mục "source" là bản gốc để chỉnh sửa web.
+- tpl.html: nội dung và giao diện trang
+- assets/: ảnh, logo, video
+- build.py: ghép tất cả thành ../index.html
+Khi muốn cập nhật: mở Claude, kết nối thư mục portfolio và nhắn yêu cầu.
+Claude sẽ sửa và tạo lại file website/index.html. Bạn chỉ cần tải file index.html đó lên GitHub (Add file > Upload files > Commit changes).
